@@ -31,8 +31,8 @@ Aplicación para gestión de eventos que permite:
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/gestor-eventos.git
-cd gestor-eventos
+git clone https://github.com/Cruiz123/event-manager.git
+cd event-manager
 ```
 
 2. Instalacion
